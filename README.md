@@ -4,9 +4,9 @@
 
 I'm a Frontend developer (soon to be Fullstack) and Web Dev with 13 years of experience on Graphic Design.
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jota_dsgn)[ 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-](https://www.instagram.com/_jmath)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotamath/)[
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white "See my design portfolio")](https://www.behance.net/jota_dsgn)[ 
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white "Follow me on Instagram")
+](https://www.instagram.com/_jmath)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white "Contact me")](https://www.linkedin.com/in/jotamath/)[
 ![followers](https://camo.githubusercontent.com/645e1ba86512362522916fcb4b4862fd029581268b93b40ab39a0dc873f936e1/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f466f72726573744b6e696768743f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465 "Follow me on Github")](https://github.com/jotamath?tab=followers) 
 
 ----------
