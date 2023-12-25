@@ -40,4 +40,4 @@ I'm a Frontend developer (soon to be Fullstack) and Web Dev with 13 years of exp
 
 
 -----
-[![Jotamath's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jotamath&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7)](https://github.com/jotamath/github-readme-stats)
+[![Jotamath's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jotamath&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7)](https://github.com/jotamath/github-readme-stats)
