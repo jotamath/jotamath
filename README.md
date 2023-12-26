@@ -24,7 +24,7 @@ I'm a Frontend developer (soon to be Fullstack) and Web Dev with 13 years of exp
 
 
 ### [](https://github.com/jotamath#-stats)📊 Stats
-[![Jotamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotamath&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7)](https://github.com/jotamath/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotamath&layout=compact&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7&langs_count=6)](https://github.com/jotamath/github-readme-stats)
+[![Jotamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotamath&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7)](https://github.com/jotamath/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotamath&layout=donut&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7&langs_count=5)](https://github.com/jotamath/github-readme-stats)
 
 -----
 
