@@ -21,18 +21,15 @@
 </div>
 
 
------
 
+---
 
 ### [](https://github.com/jotamath#-stats)📊 Stats
 [![Jotamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotamath&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7&align=center)](https://github.com/jotamath/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotamath&layout=donut&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7&langs_count=5&align=center)](https://github.com/jotamath/github-readme-stats)
 
------
-
-### [](https://github.com/jotamath#-how-i-started-coding) 👨‍💻 How I started coding 
-
+---
 <details>
-    <summary>Read more</summary>
+    <summary><h3>👨‍💻 How I started coding</h3></summary>
     <br>
     <p>I have always been a person very interested in studying and researching things. One of my great passions was the animations and cartoons I watched as a child. In 2010, I began to learn about animation, video and photo editing with Photoshop, and I really liked this area, but it just awakened me to a new field, Graphic Design.</p>
     <p>In 2012, I started to delve into my studies in the field of Design and developed a lot of artistic skills, especially with the use of Photoshop (which I still use a lot today). But when we start studying something, we can hardly stop researching and experimenting in our studies, and in 2015, I ended up encountering a new problem: something called Web Development. Web Development didn't seem so impossible to me, but the editing on no coding websites presented me with various limitations, and I couldn't transform all of my ideas and designs into the websites I was building, which made me feel quite useless.</p>
@@ -40,7 +37,6 @@
 
 </details>
 
+---
 
-
------
 [![Jotamath's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jotamath&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7&langs_count=5)](https://github.com/jotamath/github-readme-stats)
