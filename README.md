@@ -7,7 +7,7 @@
 <div align = "center">
     <a href="//github.com/jotamath/"><img src="https://github.com/jotamath/jotamath/assets/131292471/4d3d18cd-a87a-419f-8374-88abe2aaf788" alt="João Costa - Banner" title="My page"></a>
     <br>  
-    <p>I'm a Frontend (Soon to be Fullstack) and Web Dev with 13 years of experience on Graphic Design</p>
+    <p>I'm a Python and Web Dev with 13 years of experience on Graphic Design</p>
     <a href="//www.behance.net/jota_dsgn"><img src="http://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" title="See my design portfolio"></a>
     <a href="//www.instagram.com/_jmath"><img src="http://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" title="Follow me on Instagram"></a>
     <a href="//www.linkedin.com/in/jotamath/"><img src="http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Contact me"></a>
@@ -40,3 +40,19 @@
 ---
 
 [![Jotamath's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jotamath&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7&langs_count=5)](https://github.com/jotamath/github-readme-stats)
+
+---
+
+### 🗂️ My main repositories:
+<a href="https://github.com/jotamath/flappybird_AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jotamath&repo=flappybird_AI&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99" />
+</a>
+<a href="https://github.com/jotamath/verbose-squares">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jotamath&repo=verbose-squares&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99" />
+</a>
+<a href="https://github.com/jotamath/jokenpo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jotamath&repo=jokenpo&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99" />
+</a>
+<a href="https://github.com/jotamath/passwordgen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jotamath&repo=passwordgen&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99" />
+</a>
