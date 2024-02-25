@@ -14,6 +14,11 @@
     <hr>
 </div>
 
+### 🦡 Badges
+<div align = "center">
+	<a href="https://www.credly.com/badges/7ab8edb1-a1b0-41de-81f2-481d2327f5c4/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/cb5ee0a1-c7a9-4f56-bd16-e3fba287a33c" alt="Cisco Python Essentials 1"></a>
+</div>
+
 
 ### [](https://github.com/jotamath#-languages-and-tools)🧰 Languages and Tools   [![wakatime](https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384.svg)](https://wakatime.com/@018c9fc5-3ccc-466c-ae10-5fb37fb92384)
 
