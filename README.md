@@ -47,6 +47,7 @@
         <ul>
             <li>Bachelor of Applied Military Sciences - AMAN (2019-2023)</li>
             <li>Postgraduate degree in Full Stack Development - Descomplica (2024)</li>
+            <li>Bachelor Degree in Computer Engineer - Descomplica (2024-2028) </li>
             <li>Frontend Course - Codeboost (2024)</li>
             <li>Quebec Java Digital - DIO (2024)</li>
             <li>Banco PAN Java Digital - DIO (2024)</li>
