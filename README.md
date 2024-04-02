@@ -7,7 +7,7 @@
 <div align = "center">
     <a href="//github.com/jotamath/"><img src="https://github.com/jotamath/jotamath/assets/131292471/4d3d18cd-a87a-419f-8374-88abe2aaf788" alt="João Costa - Banner" title="My page"></a>
     <br>  
-    <p>I'm a Fullstack Dev with 13 years of experience on Graphic Design</p>
+    <p>I'm a enthusiast of Cybersecurity, Ethical Hacking, Python and Java</p>
     <a href="//www.behance.net/jota_dsgn"><img src="http://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" title="See my design portfolio"></a>
     <a href="//www.instagram.com/_jmath"><img src="http://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" title="Follow me on Instagram"></a>
     <a href="//www.linkedin.com/in/jotamath/"><img src="http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Contact me"></a>
