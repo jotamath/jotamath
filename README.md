@@ -7,7 +7,7 @@
 <div align = "center">
     <a href="//github.com/jotamath/"><img src="https://github.com/jotamath/jotamath/assets/131292471/4d3d18cd-a87a-419f-8374-88abe2aaf788" alt="João Costa - Banner" title="My page"></a>
     <br>  
-    <p>I'm an enthusiast of Cybersecurity, Ethical Hacking, Python and Java</p>
+    <p>Winner of the 8th Cisco CyberEducation Marathon Brazil - 30th Edition Cisco Brazil Anniversary</p>
     <a href="//www.behance.net/jota_dsgn"><img src="http://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" title="See my design portfolio"></a>
     <a href="//www.instagram.com/_jmath"><img src="http://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" title="Follow me on Instagram"></a>
     <a href="//www.linkedin.com/in/jotamath/"><img src="http://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Contact me"></a>
@@ -19,6 +19,7 @@
 	<a href="https://www.credly.com/badges/7ab8edb1-a1b0-41de-81f2-481d2327f5c4/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/cb5ee0a1-c7a9-4f56-bd16-e3fba287a33c" alt="Cisco Python Essentials 1"></a>
 	<a href="https://www.credly.com/badges/4fc25bc7-24cb-4ff7-9535-0c736d752c6d/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/ae0c8bf2-180e-468e-ad7c-04d1c26abddd" alt="Endpoint Security"></a>
 	<a href="https://www.credly.com/badges/35b48727-3732-493e-ab72-0d024282c4b1/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/61b98e58-8dd0-4780-80b8-f9436d36386b" alt="Network Basics"></a>
+	<a href="https://www.credly.com/badges/b0f3ee23-5723-494a-8273-9220429ba05c/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/919b37e9-f579-43d5-9b09-04ad97a9d627" alt="Learn-a-thon prize"></a>
 </div>
 
 ### [](https://github.com/jotamath#-languages-and-tools)🧰 Languages and Tools   [![wakatime](https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384.svg)](https://wakatime.com/@018c9fc5-3ccc-466c-ae10-5fb37fb92384)
