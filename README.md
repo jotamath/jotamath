@@ -20,7 +20,10 @@
 	<a href="https://www.credly.com/badges/4fc25bc7-24cb-4ff7-9535-0c736d752c6d/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/ae0c8bf2-180e-468e-ad7c-04d1c26abddd" alt="Endpoint Security"></a>
 	<a href="https://www.credly.com/badges/35b48727-3732-493e-ab72-0d024282c4b1/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/61b98e58-8dd0-4780-80b8-f9436d36386b" alt="Network Basics"></a>
 	<a href="https://www.credly.com/badges/b0f3ee23-5723-494a-8273-9220429ba05c/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/919b37e9-f579-43d5-9b09-04ad97a9d627" alt="Learn-a-thon prize"></a>
+	<a href="https://www.credly.com/badges/5e726d6d-9a98-4ab6-942b-3bd393cb57e6/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/106094d2-792d-4c20-84fc-6911f464eea9" alt="CCNA 1 v7"></a>
 </div>
+
+
 
 ### [](https://github.com/jotamath#-languages-and-tools)🧰 Languages and Tools   [![wakatime](https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384.svg)](https://wakatime.com/@018c9fc5-3ccc-466c-ae10-5fb37fb92384)
 
