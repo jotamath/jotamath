@@ -2,7 +2,8 @@
 
 # 🤿 João Costa 
 
-**`Creative (Developer/Designer)`** 
+**`Creative (Developer/Designer)`** <br/>
+🚀 Desenvolvedor Fullstack especializado em **.NET**, **React** e **React Native**
 
 <div align = "center">
     <a href="//github.com/jotamath/"><img src="https://github.com/jotamath/jotamath/assets/131292471/4d3d18cd-a87a-419f-8374-88abe2aaf788" alt="João Costa - Banner" title="My page"></a>
@@ -23,70 +24,49 @@
 	<a href="https://www.credly.com/badges/5e726d6d-9a98-4ab6-942b-3bd393cb57e6/public_url"><img width="60" src="https://github.com/jotamath/jotamath/assets/131292471/106094d2-792d-4c20-84fc-6911f464eea9" alt="CCNA 1 v7"></a>
 </div>
 
+----
+
+## Sobre mim
+🎓 Estudante de Engenharia da Computação e Pós-Graduação em Desenvolvimento Fullstack na Descomplica. 
+
+💡 Apaixonado por tecnologia, programação e soluções inovadoras.
+
+📌 Experiência em backend robusto com **.NET** e frontend dinâmico com **React** e **React Native**.
+
+## 🚀 Tecnologias e Ferramentas
+
+### 💻 Backend
+- .NET Core / ASP.NET
+- Entity Framework
+- SQL Server / PostgreSQL / MongoDB
+- REST APIs e GraphQL
+- Arquitetura de Microsserviços
+- Mensageria (RabbitMQ)
+
+### 🌐 Frontend
+- React.js / Next.js
+- React Native
+- TypeScript / JavaScript
+- Redux / Zustand
+- Styled Components / TailwindCSS
+
+### 🛠️ DevOps & Outras Tecnologias
+- Docker / Kubernetes
+- Azure DevOps / AWS
+- CI/CD Pipelines
+- Testes Unitários e Integração (xUnit, Jest, React Testing Library)
+- Clean Code & SOLID
 
 
-### [](https://github.com/jotamath#-languages-and-tools)🧰 Languages and Tools   [![wakatime](https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384.svg)](https://wakatime.com/@018c9fc5-3ccc-466c-ae10-5fb37fb92384)
+## 📫 Contato
+- 📧 [Email](mailto:joaomncosta0@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jotamath)
+- 🚀 [Portfólio](https://jotamath.github.io/jm)
 
-<div align="center">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
-	<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
-</div>
-
----
-
-<details>
-    <summary> <h3> 🎓 Courses and Degrees </h3> </summary>
-        <ul>
-            <li>Bachelor of Applied Military Sciences - AMAN (2019-2023)</li>
-            <li>Postgraduate degree in Full Stack Development - Descomplica (2024)</li>
-            <li>Bachelor Degree in Computer Engineer - Descomplica (2024-2028) </li>
-            <li>Frontend Course - Codeboost (2024)</li>
-            <li>Quebec Java Digital - DIO (2024)</li>
-            <li>Banco PAN Java Digital - DIO (2024)</li>
-        </ul>
-</details>
-
----
-
-### [](https://github.com/jotamath#-stats)📊 Stats
-[![Jotamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotamath&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7&align=center)](https://github.com/jotamath/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotamath&layout=donut&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7&langs_count=5&align=center)](https://github.com/jotamath/github-readme-stats)
-
----
-<details>
-    <summary><h3>👨‍💻 How I started coding</h3></summary>
-    <br>
-    <p>I have always been a person very interested in studying and researching things. One of my great passions was the animations and cartoons I watched as a child. In 2010, I began to learn about animation, video and photo editing with Photoshop, and I really liked this area, but it just awakened me to a new field, Graphic Design.</p>
-    <p>In 2012, I started to delve into my studies in the field of Design and developed a lot of artistic skills, especially with the use of Photoshop (which I still use a lot today). But when we start studying something, we can hardly stop researching and experimenting in our studies, and in 2015, I ended up encountering a new problem: something called Web Development. Web Development didn't seem so impossible to me, but the editing on no coding websites presented me with various limitations, and I couldn't transform all of my ideas and designs into the websites I was building, which made me feel quite useless.</p>
-    <p>So then, 7 years later and with 12 years of experience as a graphic designer, by hook or by crook, I began to challenge myself to solve that problem: to transform my visually elegant designs into something more, into codes, websites, and apps that could really exist. And since 2022, I actually started my journey in programming and finally all my knowledge and practice in the field of design had a whole new meaning. I have been very grateful for this period, and now, more and more, I'm pushing myself further and further and putting my knowledge into practice.</p>
-
-</details>
+💡 Sempre aberto a novas oportunidades e colaborações! Vamos construir algo incrível juntos! 🚀
 
 ---
 
 [![Jotamath's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jotamath&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99&border_radius=7&langs_count=5)](https://github.com/jotamath/github-readme-stats)
 
 ---
-
-### 🗂️ My main repositories:
-<a href="https://github.com/jotamath/flappybird_AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jotamath&repo=flappybird_AI&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99" />
-</a>
-<a href="https://github.com/jotamath/verbose-squares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jotamath&repo=verbose-squares&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99" />
-</a>
-<a href="https://github.com/jotamath/jokenpo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jotamath&repo=jokenpo&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99" />
-</a>
-<a href="https://github.com/jotamath/passwordgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jotamath&repo=passwordgen&bg_color=091D5B&title_color=EBE79D&text_color=E2DF99" />
-</a>
