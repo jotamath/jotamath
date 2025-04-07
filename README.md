@@ -1,8 +1,8 @@
 
 
-# 🤿 João Costa 
+# 🤿 João Costa  <a href="https://wakatime.com/@018c9fc5-3ccc-466c-ae10-5fb37fb92384"><img src="https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384.svg?style=social" alt="Total time coded since Dec 25 2023" /></a> 
 
-**`Creative (Developer/Designer)`** <br/>
+**`Creative (Developer/Designer)`**  <br/>
 🚀 Desenvolvedor Fullstack especializado em **.NET**, **React** e **React Native**
 
 <div align = "center">
