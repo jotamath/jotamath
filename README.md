@@ -3,7 +3,7 @@
 # 🤿 João Costa  <a href="https://wakatime.com/@018c9fc5-3ccc-466c-ae10-5fb37fb92384"><img src="https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384.svg?style=social" alt="Total time coded since Dec 25 2023" /></a> 
 
 **`Creative (Developer/Designer)`**  <br/>
-🚀 Desenvolvedor Fullstack especializado em **.NET**, **React** e **React Native**
+🚀 Desenvolvedor Fullstack especializado em **.NET**, **React** e **Golang**
 
 <div align = "center">
     <a href="//github.com/jotamath/"><img src="https://github.com/jotamath/jotamath/assets/131292471/4d3d18cd-a87a-419f-8374-88abe2aaf788" alt="João Costa - Banner" title="My page"></a>
@@ -34,11 +34,24 @@
 📌 Experiência em backend robusto com **.NET** e frontend dinâmico com **React** e **React Native**.
 
 ## 🚀 Tecnologias e Ferramentas
+<div align="center">
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/>
+</div>
 
 ### 💻 Backend
 - .NET Core / ASP.NET
+- Golang
 - Entity Framework
-- SQL Server / PostgreSQL / MongoDB
+- SQL Server / PostgreSQL / MongoDB / Redis
 - REST APIs e GraphQL
 - Arquitetura de Microsserviços
 - Mensageria (RabbitMQ)
