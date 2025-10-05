@@ -67,4 +67,13 @@ I am passionate about **Mathematics, Statistics, and Python**, and I am building
 
 ---
 
-[![Jotamath's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jotamath\&bg_color=091D5B\&title_color=EBE79D\&text_color=E2DF99\&border_radius=7\&langs_count=5)](https://github.com/jotamath/github-readme-stats)
+[![Jotamath's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jotamath\&bg_color=282828\&title_color=d8a52e\&text_color=88b677\&border_radius=7\&langs_count=5)](https://github.com/jotamath/github-readme-stats)
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jotamath&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jotamath&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+</a>
