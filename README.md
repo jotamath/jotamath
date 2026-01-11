@@ -37,7 +37,6 @@ Atualmente, foco no desenvolvimento de sistemas escaláveis e processamento de d
 
 * 🔭 **Foco Atual:** Arquiteturas robustas com **Java/Kotlin (Spring Boot)** e aplicações mobile com **Flutter**.
 * ⚡ **Diferencial:** Experiência em liderança e operações críticas aplicada à gestão de projetos de software.
-* 🎯 **Objetivo:** Ingressar no **CP IME** para me tornar Engenheiro Militar, unindo a carreira das armas à tecnologia de ponta.
 
 ---
 
