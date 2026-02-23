@@ -86,7 +86,7 @@ Atualmente, foco no desenvolvimento de sistemas escaláveis e processamento de d
     <a href="https://www.credly.com/badges/5e726d6d-9a98-4ab6-942b-3bd393cb57e6/public_url"><img width="55" src="https://github.com/jotamath/jotamath/assets/131292471/106094d2-792d-4c20-84fc-6911f464eea9" alt="CCNA 1 v7"></a>
     <a href="https://www.credly.com/badges/7ab8edb1-a1b0-41de-81f2-481d2327f5c4/public_url"><img width="55" src="https://github.com/jotamath/jotamath/assets/131292471/cb5ee0a1-c7a9-4f56-bd16-e3fba287a33c" alt="Cisco Python Essentials 1"></a>
     <a href="https://www.credly.com/badges/4fc25bc7-24cb-4ff7-9535-0c736d752c6d/public_url"><img width="55" src="https://github.com/jotamath/jotamath/assets/131292471/ae0c8bf2-180e-468e-ad7c-04d1c26abddd" alt="Endpoint Security"></a>
-    <a href="https://certs.ibsec.com.br/?cert_hash=83b247ceead3cb2a"><img width="55" src="https://certs.ibsec.com.br/wp-content/themes/ibsec-2022/stamp/PT-IC-EH-1460.png" alt="Ethical Hacker Certification"
+    <a href="https://certs.ibsec.com.br/?cert_hash=83b247ceead3cb2a"><img width="55" src="https://github.com/user-attachments/assets/56c21136-5e09-498f-87fe-04b221bd6bd5" alt="Ethical Hacker Certification" >
 </div>
 
 <br />
