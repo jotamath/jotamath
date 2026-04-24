@@ -17,26 +17,25 @@
 </div>
 
 <h1 align="center">João Costa</h1>
-<h3 align="center">Software Engineer | Mobile Developer | Data Specialist</h3>
+<h3 align="center">Cybersecurity | Blue Team | SOC | Threat Detection</h3>
 
 <p align="center">
-  <em>"Aplicando a disciplina militar na construção de arquiteturas robustas e soluções inteligentes."</em>
+  <em>"Aplicando disciplina, pensamento estratégico e execução orientada à missão na defesa cibernética."</em>
 </p>
 
-<div align="center">
-  <a href="https://wakatime.com/@018c9fc5-3ccc-466c-ae10-5fb37fb92384"><img src="https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384.svg?style=social" alt="Total time coded" /></a>
-</div>
-
-<br />
+---
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Oficial de Infantaria do Exército Brasileiro (AMAN 2023)** em transição para a Engenharia de Software de alta performance. Minha formação militar moldou uma mentalidade focada em **cumprimento de missão, planejamento estratégico e adaptabilidade**.
+Profissional de tecnologia com background em ambiente de alta criticidade e atuação voltada para **Segurança Cibernética**, atualmente em transição para operações de defesa (Blue Team).
 
-Atualmente, foco no desenvolvimento de sistemas escaláveis e processamento de dados, unindo o rigor matemático ao desenvolvimento moderno.
+Minha experiência combina **infraestrutura, desenvolvimento de software e segurança de sistemas**, com foco em proteção de ativos, análise de riscos e construção de ambientes resilientes.
 
-* 🔭 **Foco Atual:** Arquiteturas robustas com **Java/Kotlin (Spring Boot)** e aplicações mobile com **Flutter**.
-* ⚡ **Diferencial:** Experiência em liderança e operações críticas aplicada à gestão de projetos de software.
+Atuo no desenvolvimento de soluções seguras e escaláveis, com base em princípios como **Security by Design, hardening e análise de vulnerabilidades**, evoluindo constantemente para atuação em **monitoramento, detecção e resposta a incidentes (SOC)**.
+
+* 🔭 **Foco Atual:** Segurança ofensiva e defensiva aplicada a ambientes reais (SOC, Threat Detection, Incident Response).
+* 🛡 **Especialização:** Hardening, análise de vulnerabilidades, segurança de redes e aplicações.
+* ⚡ **Diferencial:** Experiência em liderança, tomada de decisão sob pressão e atuação em ambientes críticos.
 
 ---
 
@@ -44,39 +43,33 @@ Atualmente, foco no desenvolvimento de sistemas escaláveis e processamento de d
 
 * **Bacharel em Ciências Militares** | *Academia Militar das Agulhas Negras (AMAN)*.
 * **Bacharel em Ciência da Computação** | *Descomplica* (Em andamento).
+* **MBA em Segurança da Informação** | *Descomplica* (Em andamento).
 * **Pós-graduação em Desenvolvimento Fullstack** | *Descomplica*.
-* **Pós-graduação em Projetos de Aplicativos Móveis Multiplataformas** | *Descomplica* (Em andamento).
-* **Pós-graduação em Cálculo e Matemática Aplicada** | Focus (Em andamento).
+* **Pós-graduação em Projetos de Aplicativos Móveis Multiplataformas** | *Descomplica*.
+* **Pós-graduação em Cálculo e Matemática Aplicada** | *Focus*.
 
 ---
 
 ### 🛠 Tech Stack & Arsenal
 
-#### 🏛️ Enterprise & Mobile Core (Backend & Mobile)
+#### 🛡 Cybersecurity & Infrastructure
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
 </div>
 
-#### 📊 Intelligence Layer (Data Science & Math)
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+#### 🔎 Segurança & Análise
+- SIEM (em evolução)
+- Análise de Vulnerabilidades
+- Hardening de Sistemas
+- Segurança de Redes
+- OWASP Top 10
+- MITRE ATT&CK (em estudo)
 
 ---
 
